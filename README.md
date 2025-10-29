@@ -1,52 +1,85 @@
-<h1 align="center">Hey there 👋, I'm Faisal Khan</h1>
-<h3 align="center">Aspiring Data Analyst | MSc AI & ML @ Jamia Millia Islamia</h3>
+<!-- 👋 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Faisal+Khan!;Data+Analyst+%7C+AI+%26+ML+Enthusiast;Transforming+Data+Into+Decisions;Welcome+To+My+Digital+Portfolio!">
+</p>
+
+---
+
+<h3 align="center">🎯 MSc AI & ML | Jamia Millia Islamia | Aspiring Data Scientist</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faisalkhan10240&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing **MSc in Artificial Intelligence and Machine Learning** at JMI  
-- 💼 Aspiring **Data Analyst / Data Scientist**  
-- 🧠 I work with **Excel, Power BI, SQL, and Python**  
-- ⚡ Learning advanced analytics, statistics & ML models  
-- 💬 Ask me about **Data Visualization, EDA, Dashboards, or SQL**  
+> Passionate about **data, automation, and intelligence**. I’m on a mission to understand how information becomes insight, and how insight drives change.
+
+- 🎓 **MSc in Artificial Intelligence & Machine Learning**, Jamia Millia Islamia  
+- 💼 **Aspiring Data Analyst / Data Scientist**  
+- 🧠 **Learning Focus**: Python, SQL, Power BI, Statistics, Machine Learning  
+- 🔭 Currently building projects in **EDA, Dashboards, and Predictive Analytics**  
+- 🧩 Interested in *Data Storytelling*, *Automation*, and *AI Systems*  
+- ⚡ Philosophy: “Every dataset hides a decision waiting to happen.”  
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-ff69b4?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,powerbi,excel,github,git,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🪄 Featured Projects
+| Project | Description | Tools |
+|----------|--------------|-------|
+| 🧮 [Customer Churn Analysis](https://github.com/faisalkhan10240/Customer-Churn-Analysis-EDA) | Data cleaning, visualization & churn prediction insights | Python, Pandas, Matplotlib |
+| 📊 [Insurance Power BI Dashboard](https://github.com/faisalkhan10240/Power-BI-Insurance) | Interactive Power BI dashboard for business decisions | Power BI, Excel |
+| 📈 [Sales Dashboard (Excel)](https://github.com/faisalkhan10240/ExcelSalesDashboard) | End-to-end KPI dashboard using Excel visualization | Excel, Power Query |
+
+> ⚙️ Upcoming: *“DataPulse”* — an intelligent real-time analytics dashboard powered by Python + SQL.
+
+---
+
+### ⚡ GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalkhan10240&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faisalkhan10240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalkhan10240&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalkhan10240&theme=radical" alt="streak stats" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=faisalkhan10240&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalkhan10240&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faisalkhan10240&theme=algolia&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/faisalkhan10240"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:faisalkhan10240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/faisalkhan10240"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://github.com/faisalkhan10240"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ *From [Faisal Khan](https://github.com/faisalkhan10240)*
+### ☕ Fun Bit
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+</p>
+
+> “I spend the first 10 minutes of each hour planning what I’ll do — then the next 50 executing it.”  
+> — *Presentism*, my personal productivity philosophy 🧠
+
+---
+
+<h3 align="center">✨ Thanks for stopping by! Keep exploring & keep building ✨</h3>
