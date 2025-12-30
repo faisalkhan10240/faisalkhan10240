@@ -27,7 +27,7 @@
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,powerbi,excel,github,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=Python, MySQL,Pandas,Numpy,Mtplotlib,PowerBI,Excel,GitHub, Git,vscode&theme=dark" />
 </p>
 
 ---
